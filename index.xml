@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>You&#39;s Portfolio</title>
+    <title>You Zhou&#39;s Portfolio</title>
     <link>https://tomasanderson.github.io/</link>
-    <description>Recent content on You&#39;s Portfolio</description>
+    <description>Recent content on You Zhou&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 05 Nov 2016 20:23:59 +0530</lastBuildDate>
@@ -12,25 +12,25 @@
     
     
     <item>
-      <title>Name of the work 2</title>
+      <title>Sentiment Co.</title>
       <link>https://tomasanderson.github.io/portfolio/work2/</link>
       <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
       
       <guid>https://tomasanderson.github.io/portfolio/work2/</guid>
-      <description>&lt;p&gt;When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane.&lt;/p&gt;</description>
+      <description>&lt;p&gt;A fined-grained sentiment analysis model based on Plutick&amp;rsquo;s wheel of emotions.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Name of the work 3</title>
+      <title>Zijuan</title>
       <link>https://tomasanderson.github.io/portfolio/work3/</link>
       <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
       
       <guid>https://tomasanderson.github.io/portfolio/work3/</guid>
-      <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.&lt;/p&gt;</description>
+      <description>&lt;p&gt;A multi-model knowledge-aware chatbot in fanshion domain.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Item without image</title>
+      <title>Denise&#39;s Daily Type</title>
       <link>https://tomasanderson.github.io/portfolio/work4/</link>
       <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
       
@@ -39,16 +39,16 @@
     </item>
     
     <item>
-      <title>Name of the work 5</title>
+      <title>Datalab by JPMC</title>
       <link>https://tomasanderson.github.io/portfolio/work5/</link>
       <pubDate>Sat, 05 Nov 2016 19:53:42 +0530</pubDate>
       
       <guid>https://tomasanderson.github.io/portfolio/work5/</guid>
-      <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.&lt;/p&gt;</description>
+      <description>&lt;p&gt;A visualisation framework for teasury services&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Name of the work 6</title>
+      <title>JPM Coin by JPMC</title>
       <link>https://tomasanderson.github.io/portfolio/work6/</link>
       <pubDate>Sat, 05 Nov 2016 19:56:17 +0530</pubDate>
       
@@ -57,16 +57,16 @@
     </item>
     
     <item>
-      <title>Name of the work 7</title>
+      <title>Analema visualisation</title>
       <link>https://tomasanderson.github.io/portfolio/work7/</link>
       <pubDate>Sat, 05 Nov 2016 19:57:40 +0530</pubDate>
       
       <guid>https://tomasanderson.github.io/portfolio/work7/</guid>
-      <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.&lt;/p&gt;</description>
+      <description>&lt;p&gt;A solar system visualisation forcusing on Analema&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Name of the work 8</title>
+      <title>Cash Flow Forecasting Model </title>
       <link>https://tomasanderson.github.io/portfolio/work8/</link>
       <pubDate>Sat, 05 Nov 2016 19:59:22 +0530</pubDate>
       
@@ -75,7 +75,7 @@
     </item>
     
     <item>
-      <title>Item with image</title>
+      <title>Traffic Analysis Attack</title>
       <link>https://tomasanderson.github.io/portfolio/work9/</link>
       <pubDate>Sat, 05 Nov 2016 20:02:19 +0530</pubDate>
       
@@ -84,7 +84,7 @@
     </item>
     
     <item>
-      <title>Item with image</title>
+      <title>Liquidity Savings Mechanism in Solidity</title>
       <link>https://tomasanderson.github.io/portfolio/work10/</link>
       <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
       
@@ -93,7 +93,7 @@
     </item>
     
     <item>
-      <title>Item with image</title>
+      <title>Vault Cook book</title>
       <link>https://tomasanderson.github.io/portfolio/work11/</link>
       <pubDate>Sat, 05 Nov 2016 20:23:59 +0530</pubDate>
       
@@ -102,12 +102,12 @@
     </item>
     
     <item>
-      <title>Name of the work 1</title>
+      <title>Hehe font</title>
       <link>https://tomasanderson.github.io/portfolio/work1/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
       <guid>https://tomasanderson.github.io/portfolio/work1/</guid>
-      <description>&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life. One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Hehe Font: a hand writting type face.&lt;/p&gt;</description>
     </item>
     
   </channel>
